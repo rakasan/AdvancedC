@@ -1,0 +1,16 @@
+/* Lessons learnen during the course */
+
+2022.02.27
+Communication between modules
+    functions, external variables(global),static
+Using header files effectevly
+static
+stack
+heap - large pool of data that can be used dynamically
+
+storage classes : 
+
+automatic storage duration
+static storage duration
+
+principle of least privileged
